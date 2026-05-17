@@ -1,1 +1,1 @@
-# Coopper
+![Snake animation](https://raw.githubusercontent.com/Kirillka8996/Kirillka8996/output/github-contribution-grid-snake-dark.svg)
